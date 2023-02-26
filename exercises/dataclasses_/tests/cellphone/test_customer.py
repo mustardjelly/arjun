@@ -1,5 +1,5 @@
 import pytest
-from exercises.dataclasses.cellphone.customer import Customer
+from exercises.dataclasses_.cellphone.customer import Customer
 
 
 @pytest.mark.parametrize(

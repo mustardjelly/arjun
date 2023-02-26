@@ -1,6 +1,6 @@
 from freezegun import freeze_time
 import pytest
-from exercises.dataclasses.cellphone import phones
+from exercises.dataclasses_.cellphone import phones
 
 
 @pytest.mark.parametrize(

@@ -1,8 +1,8 @@
 import datetime
 from freezegun import freeze_time
-from exercises.dataclasses.cellphone.customer import Customer
-from exercises.dataclasses.cellphone.phones import Phone, PhoneTypes
-from exercises.dataclasses.cellphone.plan import Plan
+from exercises.dataclasses_.cellphone.customer import Customer
+from exercises.dataclasses_.cellphone.phones import Phone, PhoneTypes
+from exercises.dataclasses_.cellphone.plan import Plan
 
 
 def test_initialize():
