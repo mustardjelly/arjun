@@ -7,13 +7,13 @@ from exercises.dataclasses.cellphone.customer import Customer
     [
         (
             "Sam Powell",
-            "44 St Lukes Rd, Mt Albert, 1025",
-            "muer.powell@gmail.com",
+            "44 St Lukes Rd, Mt Royale, 1022",
+            "fake@gmail.com",
         ),
         (
             "Annemiek Powell",
-            "44 St Lukes Rd, Mt Albert, 1025",
-            "annemiekpowell@gmail.com",
+            "44 St Lukes Rd, Mt Royale, 1022",
+            "fake2@gmail.com",
         ),
     ],
 )
